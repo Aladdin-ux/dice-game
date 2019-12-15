@@ -1,4 +1,4 @@
-//started at thu-31-oct-2019
+
 
 //we start with defining vars of the project,
 //all in just one line.
